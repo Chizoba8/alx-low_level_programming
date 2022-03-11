@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 /*
  * main - completing the source code in order to print where the number is negative or positive
@@ -18,3 +19,4 @@ int main(void)
                 printf("%d is negative\n", n);
         return (0);
 }
+
