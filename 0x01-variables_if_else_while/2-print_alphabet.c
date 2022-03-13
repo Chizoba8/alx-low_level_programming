@@ -16,4 +16,4 @@ putchar(alphabet);
 
 putchar('\n');
 
-return (0)
+return (0);
